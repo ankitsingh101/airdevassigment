@@ -1,4 +1,4 @@
-# airdevassigment
+# AirDev assigment
 
 ![Demo](demo.gif)
 
